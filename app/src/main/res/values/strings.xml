@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Post_submission</string>
+    <string-array name="Category">
+        <item>Select Category</item>
+        <item>Technical</item>
+        <item>Social</item>
+        <item>Business</item>
+        <item>Political</item>
+        <item>Economy</item>
+
+    </string-array>
+</resources>
